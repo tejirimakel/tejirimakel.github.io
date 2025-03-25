@@ -65,3 +65,6 @@ Google Maps Embed
 Semantic HTML tags used (header, main, section, footer).
 aria-label for Back-to-Top Button.
 alt attributes on images for screen readers.
+
+# Feedback
+Feedback given was positive from peers, but no notable changes to be made were given.
