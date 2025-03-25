@@ -1,0 +1,37 @@
+## Project Structure (Tree Diagram)
+
+<!DOCTYPE html>
+<html>
+├── <head>
+│   ├── <meta>
+│   ├── <title>
+│   ├── <script> (Tailwind)
+│   └── <link> (FontAwesome)
+├── <style> (Global styles)
+└── <body>
+    ├── <header>
+    │   └── <nav>
+    │       ├── <a> (Logo)
+    │       └── <ul> (Navigation links)
+    ├── <section id="home"> (Hero Section)
+    │   └── <div> (Content)
+    │       ├── <h1>
+    │       ├── <p>
+    │       └── <a> (CTA Button)
+    ├── <main>
+    │   ├── <section id="about">
+    │   │   ├── <figure> (Image)
+    │   │   └── <div> (Text + Buttons)
+    │   ├── <section id="services">
+    │   │   └── <div> (Service Cards with Icons)
+    │   ├── <section> (Table / Price List)
+    │   │   └── <table>
+    │   ├── <section> (CTA Box)
+    │   └── <section id="contact">
+    │       ├── <div> (FAQs - Ordered List)
+    │       └── <div> (Contact Form)
+    ├── <a> (Back to Top Button)
+    ├── <iframe> (Google Map Embed)
+    └── <footer>
+        ├── <p> (Copyright)
+        └── <nav> (Social Links)
