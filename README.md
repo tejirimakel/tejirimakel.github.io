@@ -1,7 +1,8 @@
-# tejirimakel.github.io
+# Website Link
 https://tejirimakel.github.io
+
 # Documentation for the HTML + Version Control Project:
-# Project Title: Responsive Landing Page
+
 # Description:
 A responsive landing page built with Tailwind CSS and FontAwesome icons. It showcases an about section, services, pricing, FAQ, contact form, embedded Google Map, and social media links.
 
