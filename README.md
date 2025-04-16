@@ -6,18 +6,28 @@ https://tejirimakel.github.io
 # Description:
 A responsive landing page built with Tailwind CSS and FontAwesome icons. It showcases an about section, services, pricing, FAQ, contact form, embedded Google Map, and social media links.
 
+# Brand Guide
+#ffffff - white
+#ea580c - orange
+#000000 - black
+fonts - poppins 
 
 # 1. Head
 Added Meta tags and title for SEO and responsive design.
 Tailwind CSS CDN for styles.
 Font Awesome icons CDN for icons.
+Added google font
 
 # 2. Global Styles
 Added a smooth scroll behaviour to the html element for smooth scrolling.
+Added font, headings, id, and class properties.
 
 # 3. Header & Navigation
 Added a fixed navbar with smooth-scrolling anchor links.
 Included site text logo and navigation menus using an unordered list.
+Added a logo image ensuring it has an alt attribute
+Added a mobile menu
+added flex and margin to the footer.
 
 # 4. Hero Section
 Fullscreen image background with text overlay.
@@ -60,6 +70,7 @@ HTML5
 Tailwind CSS
 Font Awesome Icons
 Google Maps Embed
+Google Fonts
 
 # Accessibility Features:
 Semantic HTML tags used (header, main, section, footer).
